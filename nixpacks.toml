@@ -1,6 +1,6 @@
-[providers]
-php = "8.4"
-node = "20"
+[variables]
+PHP_VERSION = "8.4"
+NODE_VERSION = "20"
 
 [phases.install]
 cmds = [
